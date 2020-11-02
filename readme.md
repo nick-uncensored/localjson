@@ -5,3 +5,5 @@
 #### This is the `develop` branch. Checkout MASTER to guarentee working demo
 
 > More info to be added when finished
+
+> be sure to install json-server package and create `data/db` directory for use of local db
