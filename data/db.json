@@ -1,0 +1,42 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "titile": "welcome to new blog",
+            "body": "Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going...",
+            "likes": "49"
+        },
+        {
+            "id": 2,
+            "titile": "welcome to new blog",
+            "body": "Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going...",
+            "likes": "9"
+        },
+        {
+            "id": 3,
+            "titile": " th other blog",
+            "body": "Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going...",
+            "likes": "22"
+        },
+        {
+            "id": 4,
+            "titile": "dark stuff in this",
+            "body": "Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going...",
+            "likes": "100"
+        },
+        {
+            "id": 5,
+            "titile": "mid way thru the year",
+            "body": "Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going... Heres a whole buncxh of blog stuff that keeps going...",
+            "likes": "4"
+        }
+    ],
+    "polls": [
+        {
+            "id": 1,
+            "question": "Do you prefer vue or React",
+            "answerA": "Vue",
+            "answerB": "React"
+        }
+    ]
+}

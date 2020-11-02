@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
+
+* {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #eee;
+    font-family: 'Roboto';
+    color: #444;
+    width: 100%;
+    height: 100vh;
+ 
+}
+
+nav {
+    margin: 5px;
+    padding: 15px;
+    background: rgb(23, 238, 238);
+    display: flex;
+    justify-content: space-between;
+}
+
+nav h1 {
+    font-size: 2.4rem;
+    margin: 0 auto;
+    text-shadow: 2px 2px 5px #fff;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background: #36cca2;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 11px;
+}
+
+.blogs {
+    margin: 15px;
+    padding: 5px;
+    border: 2px solid pink;
+    border-radius: 3%;
+}
+.blogs .post {
+    color: #36cca2;
+    background: radial-gradient(rgb(161, 90, 146), #ac4b4b);
+    margin: 10px;
+    padding: 10px;
+    border-top: purple;
+    line-height: 1.4;
+}
+.post p small {
+    text-decoration: underline blue;
+}
+.post h2 {
+    color: rgb(236, 231, 231);
+    text-shadow: 2px 4px 7px black;
+    
+    margin-bottom: 20px;
+}
+ .post a {
+     margin-top: 15px;
+    color: #ffe600;
+}
+
+form {
+    max-width: 500px;
+}
+
+input, textarea {
+    display: block;
+    margin: 16px 0;
+    padding: 6px 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-family: 'Roboto';
+}
+
+textarea {
+    min-height: 200px;
+}
